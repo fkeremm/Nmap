@@ -1,6 +1,6 @@
 # Başlangıç Tarihi -*- 13/11/2021 20:18 -*-
 # Bitiş Tarihi -*- 13/11/2021 22:11 -*-
-# Coding By Saep & Aser_Vant
+# Coding By Furkan & Aser_Vant
 
 import os
 os.system("apt install tcptraceroute")
