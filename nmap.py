@@ -12,7 +12,7 @@ os.system("figlet NMAP")
 print("""
 [~] Welcome to the Nmap practical use program [~]
 
-[~] CODİNG BY SAEP & ASER_VANT [~]
+[~] CODİNG BY FurkanKerem & ASER_VANT [~]
 
 1 [~] Short Scan
 2 [~] Port scanning
@@ -63,7 +63,7 @@ elif choose == "9":
 	target = input("Please Enter Destination IP ==> ")
 	os.system("nmap -f -f "+ target)
 else:
-	print("Hatlı Seçim Yeniden Dene")
+	print("Wrong Selection Retry")
 
 again = input("Do you want to scan again y/n ==> ")
 
