@@ -5,13 +5,16 @@
 
 ``apt install python python2 -y``
 
-``git clone https://github.com/saepsh/Nmap``
+``git clone https://github.com/securityfk/Nmap``
 
 ``cd Nmap``
 
 ``python3 nmap.py``
 
 ------------------------
-### [ SOİCİAL MEDİA ]
-> [INSTAGRAM SAEP](https://Instagram.com/saep_official_/)
-> [INSTAGRAM ASER](https://Instagram.com/aser_vant/)
+
+## My
+I'm Furkan Kerem, 14 years old, cyber security expert.
+
+
+> [INSTAGRAM](https://Instagram.com/security.fk/)
